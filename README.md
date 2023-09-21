@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fahri Faisal
 - 👀 I’m interested in Everything
-- 📫 How to reach me fahrifaisal567@gmail.com
+- 📫 Reach me fahrifaisal567@gmail.com
 
 <!---
 faisalfahr/faisalfahr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
